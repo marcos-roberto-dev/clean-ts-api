@@ -1,7 +1,7 @@
 ---
 name: starter-template-clean-ts
 about: starter-template-clean-ts
-title: ''
+title: starter clean ts api
 labels: ''
 assignees: ''
 
